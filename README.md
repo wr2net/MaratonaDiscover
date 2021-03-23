@@ -1,8 +1,8 @@
 ## Installation
 Not is necessary
 
-##Run
+##Running
 Open index.html in your favorite browser
 
-
+##View
 ![Finance](./assets/devfinance.png)
